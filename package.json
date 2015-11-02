@@ -1,0 +1,19 @@
+{
+  "name": "httpstatus",
+  "version": "1.0.0",
+  "description": "JavaScript HTTP Status library based on Go net/http/status",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjacobson93/httpstatus.git"
+  },
+  "author": "Jeremy Jacobson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jjacobson93/httpstatus/issues"
+  },
+  "homepage": "https://github.com/jjacobson93/httpstatus#readme"
+}
